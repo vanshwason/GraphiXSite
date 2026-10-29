@@ -1,5 +1,7 @@
 # GraphiXSite
 
+**Live site: https://vanshwason.github.io/GraphiXSite/**
+
 Portfolio site for Shivani Sharma, styled as a desktop: projects are draggable icons, the dock holds Premiere Pro, Photoshop and Illustrator.
 
 ## Editing content
